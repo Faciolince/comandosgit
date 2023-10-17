@@ -1,4 +1,15 @@
-# comandosgit
-clases aprendices
+# aprendices
+## cursos
+### fundamentos de programacion
 
-comandos en git
+- HTDML
+- css
+- javascript
+
+1. HTDML
+2. css
+3. javascript
+
+°°°°
+fundamentos de programacion
+   
